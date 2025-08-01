@@ -1,7 +1,7 @@
 ### _Note:_
 Updates will be extremely barren, as this repository is predominately for archival.
 
-This was taken from [Nightly 2025-04-29](https://github.com/cataclysmbnteam/Cataclysm-BN/releases/tag/2025-04-29), the last instance of the mod before it got obsoleted from [chore: Remove obsoleted mods](https://github.com/cataclysmbnteam/Cataclysm-BN/pull/6449)
+This was taken from [Nightly 2025-04-29](https://github.com/cataclysmbnteam/Cataclysm-BN/releases/tag/2025-04-29), the last instance of the mod before it got deleted from [chore: Remove obsoleted mods](https://github.com/cataclysmbnteam/Cataclysm-BN/pull/6449)
 
 ### _Why this one specifically and not the other obsoleted mods?:_
 I really liked it and would unobselete it with the hotfix of the palletes.json file every run I did. Maybe one day I'll uh, maintain it but as it stands now it'd be alot of **fricken** work to figure out what's wrong with it (i.e. conflicts, what's already been integrated from it into basegame, and so on).

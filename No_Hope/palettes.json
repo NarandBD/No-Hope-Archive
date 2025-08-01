@@ -268,6 +268,7 @@
     },
     "terrain": {
       ".": [ [ "t_region_groundcover_urban", 10 ], "t_region_shrub_decorative" ],
+      "s̱": "t_region_soil",
       "-": "t_open_air",
       "G": "t_region_groundcover_urban",
       "p": "t_region_groundcover_urban",
@@ -356,7 +357,8 @@
       "l": { "item": "fridge", "chance": 5, "repeat": [ 1, 2 ] },
       "Y": { "item": "trash", "chance": 30, "repeat": [ 1, 2 ] },
       "R": { "item": "homebooks", "chance": 20, "repeat": [ 3, 8 ] }
-    }
+    },
+    "nested": { "o": { "chunks": [ [ "null", 95 ], [ "house_place_air_conditioner", 5 ] ] } }
   },
   {
     "type": "palette",
@@ -669,7 +671,7 @@
     },
     "toilets": { "T": {  } },
     "gaspumps": { "!": { "fuel": "gasoline", "amount": [ 0, 5000 ] } },
-    "vendingmachines": { "D": { "item_group": "vending_drink" }, "F": { "item_group": "vending_food" } }
+    "vendingmachines": { "D": { "item_group": "vending_drink" }, "F": { "item_group": "vending_food" }, "M": { "item_group": "vending_medicine", "reinforced": true } }
   },
   {
     "type": "palette",

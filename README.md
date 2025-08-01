@@ -1,3 +1,6 @@
+### _Note:_
+Updates will be extremely barren, as this repository is predominately for archival.
+
 # No-Hope
 
 The mod is based on the old lore where there was a full-scale war with China with many months of preceding marauding and civil disorder. Thus the world with the mod will be much more damaged overall, there will be much less loot etc.
